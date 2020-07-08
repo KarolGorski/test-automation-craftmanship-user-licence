@@ -3,7 +3,6 @@ package pl.kg.domain;
 import static java.util.Objects.isNull;
 
 import java.time.LocalDate;
-import java.util.Objects;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

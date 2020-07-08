@@ -2,8 +2,6 @@ package pl.kg.domain;
 
 import java.time.LocalDate;
 
-import pl.kg.domain.utils.TestUtils;
-
 class LicenceTestConsts {
     static final LocalDate LICENCE_START_DATE = LocalDate.parse("2020-07-01");
     static final LocalDate GOOD_CHANGED_LICENCE_START_DATE = LocalDate.parse("2020-08-02");

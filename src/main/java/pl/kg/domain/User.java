@@ -1,7 +1,6 @@
 package pl.kg.domain;
 
 import java.time.LocalDate;
-import java.util.Set;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
